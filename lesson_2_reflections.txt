@@ -1,0 +1,15 @@
+* What happens when you initialize a repository? Why do you need to do it?
+
+Git created some hidden meta data files in that directory and started controlling versions of the files in that directory(repository)
+why:
+
+Because this directory has no git service yet and neither cloned from another repository thus initialization is necessary
+
+
+* How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a placeholder to put files that will be committed into the repository.
+
+The staging area allows us to prepare before going directly to the realm of git
+ 
+
