@@ -1,0 +1,4 @@
+* When would you want to create a remote repository rather than keeping all your work local?
+As soon as possible because by having a remote repository I'll get my local work back up so I need no worry if somehow I lost 
+my local work and furthermore it is necessary if we want to work together with team because a remote repo will stand as the 
+center / the point where the rest of team sharing the work.
